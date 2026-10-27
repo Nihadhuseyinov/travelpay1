@@ -1,0 +1,6 @@
+{
+  "name": "TravelPay - AMB Rəqəmsal Turist Ödəniş Sistemi",
+  "description": "Azərbaycan Respublikası Mərkəzi Bankının turistlər üçün rəqəmsal ödəniş, multi-valyuta, kiber-təhlükəsizlik və kripto travel wallet platforması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
